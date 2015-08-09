@@ -1,7 +1,7 @@
 /*Introduction to Algorithm Second Edtion Chapter 11.3
  *As an example, suppose we have k = 123456, p = 14, m = 16384, and w = 32 
  */
-
+//http://liuxinzhangyin.cn/69.html
 #include <stdio.h>
 #include <stdlib.h>
 typedef unsigned int u32;
